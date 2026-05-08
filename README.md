@@ -2,10 +2,10 @@
 ## Add, Delete, List and Start your games, all from a CLI
 
 ### Installation
-Download the provided "CLGM.py" file from the repository
-(Will create an extra file once ran)
-Requires Python
-Can be added to System PATH variable for global access
+Download the provided "CLGM.py" file from the repository/
+(Will create an extra file once ran)/
+Requires Python/
+Can be added to System PATH variable for global access/
 
 ### Use
 Adding Games
