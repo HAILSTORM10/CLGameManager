@@ -9,22 +9,22 @@ Can be added to System PATH variable for global access
 
 ### Use
 Adding Games
-  CLGM.py add <Name of Game> <Path to Game .exe>
-  For example:
+  CLGM.py add <Name of Game> <Path to Game .exe>\
+  For example:\
   CLGM.py add Muck D:\SteamLibrary\steamapps\common\Muck\Muck.exe
 
 Deleting Games
-  CLGM.py delete <Name of Game>
-  For Example:
+  CLGM.py delete <Name of Game>\
+  For Example:\
   CLGM.py Delete Muck
 
-Listing Games
+Listing Games\
   CLGM.py List
 
 Starting Games
-  CLGM.py start <Name of Game>
-  For Example:
-  CLGM.py start Muck
+  CLGM.py start <Name of Game>\
+  For Example:\
+  CLGM.py start Muck\
 
 ### Known Issue
 Emulator Support
