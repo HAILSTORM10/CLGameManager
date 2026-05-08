@@ -1,6 +1,0 @@
-pcsx2 | "C:\Misc Apps\Emulators\PCSX2 1.6.0\pcsx2.exe" --nogui "D:\Games\Emulation\PS2\MKSM.iso"
-sm | D:\Games\PC\SpiderMan - Friend Or Foe\Game.exe 
-sg0 | C:\Program Files (x86)\Steam\steamapps\common\STEINS;GATE 0\Launcher.exe 
-Muck | D:\SteamLibrary\steamapps\common\Muck\Muck.exe 
-Wagatobi | D:\Games\PC\Wagotabi\Wagotabi.exe 
-Mario | "C:\Misc Apps\Emulators\Dolphin-x64\Dolphin.exe" "D:\Games\Emulation\Wii\Mario Kart Wii (USA) (En,Fr,Es).rvz"pcsx2 | "C:\Misc Apps\Emulators\PCSX2 1.6.0\pcsx2.exe" --nogui "D:\Games\Emulation\PS2\MKSM.iso"
