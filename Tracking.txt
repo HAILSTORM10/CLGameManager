@@ -1,4 +1,0 @@
-pcsx2 | C:\Misc Apps\Emulators\PCSX2 - v1.7\pcsx2-qt.exe
-sm | D:\Games\PC\SpiderMan - Friend Or Foe\Game.exe 
-sg0 | C:\Program Files (x86)\Steam\steamapps\common\STEINS;GATE 0\Launcher.exe 
-Muck | D:\SteamLibrary\steamapps\common\Muck\Muck.exe 
