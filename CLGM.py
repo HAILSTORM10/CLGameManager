@@ -14,7 +14,7 @@ def UserChoice():
                 print('Adding a game...')
                 
                 #First, check if the game already exists
-                tFile = open('Game.txt', 'r')
+                tFile = open('Game.txt', 'r+')
                 for GameName in tFile:
                     if sys.argv[2] == GameName.split(' | ')[0]:
                         print('Game with same name already exists!')
